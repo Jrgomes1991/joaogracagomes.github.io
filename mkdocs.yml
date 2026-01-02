@@ -1,6 +1,5 @@
 site_name: João Graça Gomes
-repo_url: https://joaogracagomes.github.io
-
+repo_url: https://joaogracagomes.github.io/
 edit_uri: tree/main/docs/
 
 theme:
@@ -20,7 +19,6 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-
   features:
     - navigation.instant
     - navigation.top
@@ -28,21 +26,20 @@ theme:
     - content.code.annotate
 
 extra:
-  homepage: https://joaogracagomes.github.io
+  homepage: https://joaogracagomes.github.io/
 
 plugins:
-  - tags
   - search
   - include-markdown
   - mkdocs-jupyter
   - exclude:
       glob:
         - "LICENSE.md"
+#  - tags  # optional
 
 markdown_extensions:
+  - pymdownx.arithmatex
   - meta
-  - mdx_math:
-      enable_dollar_delimiter: true
   - pymdownx.highlight:
       anchor_linenums: false
   - pymdownx.inlinehilite
@@ -52,7 +49,8 @@ markdown_extensions:
       custom_checkbox: true
 
 extra_javascript:
-  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 
 
 
