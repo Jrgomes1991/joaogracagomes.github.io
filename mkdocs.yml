@@ -30,7 +30,6 @@ extra:
 
   # Custom navigation
 nav:
-  - Home: index.md
   - Resume: Resume.md
   - Consultancy: Consultancy.md
   - Articles: Articles.md
