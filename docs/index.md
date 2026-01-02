@@ -1,5 +1,7 @@
 # Hi, I'm João Graça Gomes 👋
 
+![João Graça Gomes](assets/Joao.jpg){: style="width:150px; border-radius:50%; display:block; margin:auto;" }
+
 I'm a Postgraduate Researcher at Imperial College London's Dyson School of Design Engineering, where I focus on **techno-economic models for decarbonising power systems**. In other words, I explore ways to make energy systems cleaner, smarter, and more sustainable.  
 
 I’m fascinated by the intersection of **energy, technology, and policy**, and I love turning complex research into insights that actually make a difference in the real world.  
