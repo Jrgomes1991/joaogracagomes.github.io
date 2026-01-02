@@ -19,5 +19,6 @@ header_pages:
   - index.md
   - cv.md
   - papers.md
-  - articles.md
-  - hobbies.md
+  - Articles.md
+  - others.md
+  - README.md
