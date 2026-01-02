@@ -28,8 +28,7 @@ jobs:
           pip install mkdocs-jupyter
           pip install pymdown-extensions
           pip install mkdocs-exclude
-          pip install mdx-math      # Fixes mdx_math error
-          # pip install mkdocs-tags-plugin  # Optional, comment if needed
+          # pip install mkdocs-tags-plugin  # Optional
 
       - name: Build and deploy
         run: mkdocs gh-deploy --force
