@@ -28,6 +28,17 @@ theme:
 extra:
   homepage: https://joaogracagomes.github.io/
 
+  # Custom navigation
+nav:
+  - Home: Home.md
+  - Resume: Resume.md
+  - Consultancy: Consultancy.md
+  - Articles: Articles.md
+  - Studies: Studies.md
+  - Teaching: Teaching.md
+  - Hobbies: Hobbies.md
+
+
 plugins:
   - search
   - include-markdown
