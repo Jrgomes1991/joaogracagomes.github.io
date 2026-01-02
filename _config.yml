@@ -1,0 +1,23 @@
+title: "João Graça Gomes Personal Website"
+description: "CV, research, articles, and personal interests"
+url: "https://joaogracagomes.github.io"
+baseurl: ""
+
+author:
+  name: "João Graça Gomes"
+  email: jgracagomes@gmail.com
+
+theme: minima
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - cv.md
+  - papers.md
+  - articles.md
+  - hobbies.md
