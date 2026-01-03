@@ -48,6 +48,7 @@ plugins:
 #  - tags  # optional
 
 markdown_extensions:
+  - attr_list
   - pymdownx.arithmatex
   - meta
   - pymdownx.highlight:
