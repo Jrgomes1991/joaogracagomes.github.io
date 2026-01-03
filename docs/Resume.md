@@ -96,11 +96,26 @@ Portuguese (Native) · English (IELTS 7.5) · Chinese (HSK 3)
 
 ---
 
-## Professional Service
+## Professional Service & Leadership
 
-- Board Member – **Global Future Energy Leaders**, World Energy Council (2022-Present)
-- Member – **Studies Standing Committee**, World Energy Council (2023-Present)
-- European Climate Pact Ambassador (European Commission) (2021-2022)
+- **Municipal Assembly Member (Local Parliament)** — Mafra Municipality, Portugal (2021–2025)  
+  Elected member of the Municipal Assembly, contributing to policy discussions on local development, sustainability, and public services.
+
+- **Candidate for City Councillor** — Mafra Municipality, Portugal (2025)
+
+- **Coordinator, Energy, Blue Economy and Climate Transition Hub**  
+  *Portuguese Diaspora Council* — 2024–Present  
+  Coordinating international experts and initiatives focused on energy transition, climate policy, and blue economy strategies.
+
+- **Coordinator, Asia & Oceania Hub**  
+  *Portuguese Diaspora Council* — 2022–2024  
+  Led engagement across the Asia–Oceania region, strengthening collaboration between Portuguese professionals, academia, industry, and institutions abroad.
+
+- **Board Member** — Global Future Energy Leaders, World Energy Council
+
+- **Member** — Studies Standing Committee, World Energy Council
+
+- **European Climate Pact Ambassador** — European Commission
 
 ---
 
