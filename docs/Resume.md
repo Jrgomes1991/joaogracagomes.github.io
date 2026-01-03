@@ -43,23 +43,35 @@ Top 5%
 **Head of Research & Development**  
 *Sino-Portuguese Centre for New Energy Technologies (China Three Gorges)* — 2019–2024  
 
-- Led and managed **12+ R&D projects** (€3.5M total value)
-- Developed energy system optimisation and forecasting models
-- Worked on microgrids, industrial parks, wind and solar PV projects
-- Coordinated collaborations between Europe and China
+- Led and managed 12+ R&D projects with a total value of €3.5M, ensuring the timely delivery of high-quality results.
+- Successfully led research funding applications, securing critical resources for innovation and development.
+- Directed planning and implementation of microgrids, industrial parks, wind, and solar PV projects, optimising technical and operational performance.
+- Coordinated collaborations between Europe and China, fostering knowledge exchange and international partnerships.
+  
+    - **Key Projects:**  
+  
+    - **Navigating the Energy Trilemma in China: Safety, Equity, and Sustainability**  
+      Designed a framework to assess energy security, equity, and environmental sustainability; managed project implementation and reporting.  
+    
+    - **China's Green Hydrogen Supply Chain**  
+      Researched techno-economic feasibility of hydrogen production and transport; co-authored a Springer book chapter.  
+    
+    - **Maximizing Value in Liberalized Electricity Markets**  
+      Developed optimisation models for hybrid wind-solar PV systems with storage, improving revenue and efficiency; co-authored 2 SCI papers.
 
 **Graduate Teaching & Research Assistant**  
 *Shanghai Jiao Tong University* — 2019–2021  
 
-- Supported teaching in New Energy Systems and Gas Combustion Technologies 
-- Assisted in course preparation and student assessment
+- Supported teaching in New Energy Systems and Gas Combustion Technologies.
+- Assisted in course preparation and student assessment.
 
 **Renewable Energy Policy Analyst**  
 *Portuguese Renewable Energy Association (APREN)* — 2015–2018  
 
-- Analysed EU electricity production and market data
-- Contributed to policy discussions at the national and EU levels
+- Analysed EU electricity production and market data.
+- Contributed to policy discussions at the national and EU levels.
 - Prepared reports for international organisations (World Bank, WindEurope, REN21, Bioenergy Europe, WWEA)
+- Supported the development of APREN's yearly conference.
 
 ---
 
@@ -139,7 +151,7 @@ Portuguese (Native) · English (IELTS 7.5) · Chinese (HSK 3)
   Recognized for achieving a yearly GPA higher than 16/20.
 
 - **Euroscola Winner** — European Commission (2009)  
-  *Europe*  
+  *European Union*  
   Selected to participate in the Euroscola program representing Portugal.
 
 ---
@@ -158,11 +170,14 @@ Portuguese (Native) · English (IELTS 7.5) · Chinese (HSK 3)
 - **Coordinator, Asia & Oceania Hub**  - Portuguese Diaspora Council (2022–2024)  
   Led engagement across the Asia–Oceania region, strengthening collaboration between Portuguese professionals, academia, industry, and institutions abroad.
 
-- **Board Member** — Global Future Energy Leaders, World Energy Council (2022–Present)
+- **Board Member, Global Future Energy Leaders** — World Energy Council (2022–Present)
   Developing the global strategy of the Future Energy Leaders, recruiting new members, expanding the global network, supporting conferences, and managing studies and events. 
 
-- **Member** — Studies Standing Committee, World Energy Council  (2023-Present)
-  Debating, improving, and analysing the results and strategic direction of the World Energy Council.
+- **Member, Studies Standing Committee** — World Energy Council  (2023-Present)
+  Performed long‐term energy planning studies on the worldwide energy sector.	Organised, prepared and moderated several high‐level discussions on the future of the energy sector. 
+
+  - **Board Member, Future Energy Leaders Portugal** — Portuguese Energy Association (2021 – 2024)  
+  Collaborated with energy experts to advance energy knowledge in Portugal. Published, edited and managed several opinion articles and white papers on the integration of renewable energy sources into the power grid. Establishing and managing collaborations with media outlets to promote initiatives, enhance visibility, and support communication strategies.
 
 - **European Climate Pact Ambassador** — European Commission (2022-2023)
   Promoting climate action and sustainability initiatives across communities, engaging citizens and stakeholders, and supporting projects aligned with the European Green Deal.
